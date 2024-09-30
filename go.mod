@@ -1,4 +1,4 @@
-module github.com/diegobernardes/ctrader
+module github.com/bbq2100/ctrader
 
 go 1.22
 
